@@ -1,2 +1,2 @@
-# Estudos-HTML-CSS
-Repositório para estudos de html/css
+# Estudos-HTML
+Repositório para estudos de HTML
