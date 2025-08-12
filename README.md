@@ -1,3 +1,2 @@
 ### Espaço para exercícicos de HTML-CSS <hr>
-
-Para ver algum projeto, só clona o repositório e abre o arquivo .html no navegador ou numa IDE.
+Para ver como ficou o exercício, basta clonar o repositório e abrir o arquivo .html usando um servidor local, como o Live Server do VS Code — assim você vê a página funcionando, não só o código.
